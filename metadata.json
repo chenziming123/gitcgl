@@ -1,0 +1,7 @@
+{
+  "name": "2025.12.8 - 奢华互动圣诞树",
+  "description": "高端互动 3D 圣诞树体验，支持手势控制、照片螺旋展示及动态粒子特效。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
