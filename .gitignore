@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.pnpm/
+.pnpm-lock.yaml
+
+# Build output
+dist/
+build/
+out/
+.next/
+.turbo/
+
+# TypeScript build info
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Cache directories
+.vercel/
+.cache/
+.parcel-cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
